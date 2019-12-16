@@ -1,0 +1,22 @@
+createdAt: "2019-12-16T03:08:02.386Z"
+updatedAt: "2019-12-16T03:12:02.356Z"
+type: "MARKDOWN_NOTE"
+folder: "a5b79a2fbff70fc0490b"
+title: "About Me"
+tags: []
+content: '''
+  ## About Me
+  
+  * Author: Yangxiaofu
+  * Company: https://www.alibaba-inc.com
+  * Github: https://github.com/xiaofuzi
+  * Email: yangxiaofupl@163.com
+  * Old version: http://2018.yangxiaofu.com/
+  
+  ![me.jpg](http://hexo-blog.yangxiaofu.com/img/dog.jpg)
+  
+  * [license](https://creativecommons.org/licenses/by/2.0/legalcode)
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

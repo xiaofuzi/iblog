@@ -1,0 +1,27 @@
+.notes-list {
+    .note-item {
+        list-style-type: disc;
+        margin-bottom: 15px;
+
+        .note-item-title {
+            display: block;
+            font-size: 16px;
+            color: #222;
+            text-decoration: none;
+
+            &:hover {
+                color: #000;
+            }
+
+            &:visited {
+                color: #999;
+            }
+        }
+
+        .create-time {
+            display: block;
+            font-size: 14px;
+            color: #222;            
+        }
+    }
+}
