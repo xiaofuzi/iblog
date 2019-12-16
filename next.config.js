@@ -24,7 +24,6 @@ let nextConfigJs = {
   exportPathMap: async function(defaultPathMap) {
     let pages = {
         "/": { page: "/note" },
-        "/papers": { page: "/papers" },
         "/notes": { page: "/note" },
         "/posts": { page: "/" }
     };
