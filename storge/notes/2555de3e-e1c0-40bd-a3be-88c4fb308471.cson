@@ -1,0 +1,34 @@
+createdAt: "2019-12-19T05:58:54.006Z"
+updatedAt: "2019-12-19T06:07:51.917Z"
+type: "MARKDOWN_NOTE"
+folder: "219a5cd18ab7b4d491ef"
+title: "可视化代码生成 VS 辅助代码生成"
+tags: []
+content: '''
+  ## 可视化代码生成 VS 辅助代码生成
+  
+  ![640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/mmbiz_jpg/STibE7iaFZJoGRypMGvKfZ86utiaKCzLtmRVoT5agWVia0Cric4pcgOxgoXRUEg2ua3dfDF3hXafPJHqJ1lmTdlBwibQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+  
+  > “我的作品都是《2001 太空漫步》的拙劣模仿。”
+  -- 《三体》刘慈欣
+  
+  
+  > 低代码开发思考🤔？
+  > 高效、简单、图灵完备
+  
+  * 低代码开发
+    低代码/无代码本质就是可变逻辑配置化，但是业务逻辑是不可预测的。今天不可能的事情，明天都有可能。所以只有把业务范围局限在一个可控的范围，才有可能覆盖更多的逻辑。通用的低代码开发平台不可能实现，跟现有业务平台绑定的低代码开发会有一定的价值。
+  
+   * 辅助代码生成
+     开发者一直追求高效的开发工具，也行编写生成代码的代码也是一种思路。
+  
+  ## 参考链接
+  
+  * [低代码开发会是未来吗？](https://mp.weixin.qq.com/s/M0vrPskxg0SZeQ6cmso7Qw)
+  * [Low-code Application Development Platform - Build Apps Fast & Efficiently \\| Mendix](https://www.mendix.com/)
+  * [The #1 Low-Code Platform for Digital Transformation \\| OutSystems](https://www.outsystems.com/)
+  * [Build Custom Business Apps \\| Microsoft Power Apps](https://powerapps.microsoft.com/en-us/)
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

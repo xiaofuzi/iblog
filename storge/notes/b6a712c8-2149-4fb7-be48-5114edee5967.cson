@@ -1,11 +1,16 @@
 createdAt: "2019-12-16T03:05:16.181Z"
-updatedAt: "2019-12-16T03:07:41.239Z"
+updatedAt: "2019-12-16T08:25:33.628Z"
 type: "MARKDOWN_NOTE"
 folder: "afd33452ac9f454bab9a"
-title: "Websites"
+title: "web"
 tags: []
 content: '''
-  ## Websites
+  ## web
+  
+  * [GraphQL \\| A query language for your API](https://graphql.org/)
+    * [GitHub - graphile/postgraphile: Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!](https://github.com/graphile/postgraphile)
+    * [GitHub - hasura/graphql-engine: Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.](https://github.com/hasura/graphql-engine)
+    * [GitHub - graphql/graphql-js: A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js/#using-graphqljs)
   
   ## programming language
   
