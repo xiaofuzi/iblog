@@ -20,6 +20,9 @@ export default class PostPage extends Component {
             <div className="container markdown-body">
               <div dangerouslySetInnerHTML={{__html:this.props.note.content}}>
               </div>
+              <span className="create-time has-gray">
+                          {this.props.note.createdAt}
+                        </span>
             </div>
             <FooterComponent/>
           </div>;

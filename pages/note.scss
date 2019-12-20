@@ -1,0 +1,19 @@
+.micro-notes {
+    .note-item {
+        position: relative;
+        background: #ffffff;
+    
+        .tags {
+            position: relative;
+            margin-bottom: 0;
+            top: 75px;
+        }
+    
+        > div h2:nth-child(1) {
+            margin-top: 0px;
+            padding-bottom: 50px;
+        }
+    }
+}
+
+

@@ -11,7 +11,7 @@ export default class HomePage extends Component {
     static async getInitialProps () {
         let res = await Http.get("/notes/notesList");
         return {
-            notesList: res['websites'] || []
+            notesList: res['all'] || []
         };
     }
 

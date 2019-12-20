@@ -1,0 +1,42 @@
+createdAt: "2019-12-20T06:02:23.276Z"
+updatedAt: "2019-12-20T06:05:27.501Z"
+type: "MARKDOWN_NOTE"
+folder: "219a5cd18ab7b4d491ef"
+title: "My first impressions of Rust \\| Technorage"
+tags: [
+  "rust"
+  "编程"
+  "编程语言"
+]
+content: '''
+  ## [My first impressions of Rust \\| Technorage](https://deepu.tech/first-impression-of-rust/)
+  
+  ![cxs080wnnykflkmsfo9p.png](https://thepracticaldev.s3.amazonaws.com/i/cxs080wnnykflkmsfo9p.png)
+  
+  ### What I like about Rust
+  
+  * No Garbage collection
+  * Immutable by default
+  * Pattern matching
+  * Generics
+  * Static types and advanced type declarations
+  * Nice and simple error handling
+  * Tuples
+  * Block expressions
+  * Beautiful compiler output
+  * Built-in tooling
+  * Concurrency
+  * Macros and meta-programming
+  * Traits
+  
+  ### What I don’t like about Rust
+  
+  * Complexity
+  * Shadowing of variables in the same context
+  * Functions are not first-class citizens
+  * Implicit implementation of traits
+  * Nitpicks
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

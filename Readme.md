@@ -1,6 +1,8 @@
-## yangxiaofu's blog
+## [yangxiaofu's blog](https://yangxiaofu.com/)
 
-* my notes
-* my posts
+* Notes
+* Posts
+* Collections
+* Projects
 
 
